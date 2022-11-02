@@ -1,5 +1,6 @@
 # Pattern_Recognition_project
 
+Contributors:
 Theodoros Lioupis 9733
 Evgenia Stavrianidou 9686
 
