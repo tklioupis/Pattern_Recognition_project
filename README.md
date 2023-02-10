@@ -5,3 +5,4 @@ Theodoros Lioupis 9733
 Evgenia Stavrianidou 9686
 
 The project consists of three deliverables. Each deliverable is independent and consists of various tasks.
+Pattern Recognition Subject, Winter Semester 2022-2023, Aristotle University of Thessaloniki.
